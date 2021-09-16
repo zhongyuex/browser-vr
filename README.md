@@ -1,2 +1,2 @@
-# videojs-vr
+# browser-vr
 Play local VR videos in flat-screen via browser

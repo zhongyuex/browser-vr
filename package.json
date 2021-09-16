@@ -1,0 +1,23 @@
+{
+  "name": "browser-vr",
+  "version": "1.0.0",
+  "description": "Play local VR videos in flat-screen via browser",
+  "main": "index.js",
+  "dependencies": {
+    "videojs-vr": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhongyuex/browser-vr.git"
+  },
+  "author": "zhongyuex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhongyuex/browser-vr/issues"
+  },
+  "homepage": "https://github.com/zhongyuex/browser-vr#readme"
+}
